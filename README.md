@@ -1,6 +1,6 @@
 
   # Social Network API
-## This project is an API for a social network web application where users can share their thoughts, react to friends' thoughts, and create a friend list. It uses a NoSQL database so that the website can handle largee amounts of unstructured data.
+## This project is an API for a social network web application where users can share their thoughts, react to friends' thoughts, and create a friend list. It uses a NoSQL database so that the website can handle large amounts of unstructured data.
   
 ## Badge: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
