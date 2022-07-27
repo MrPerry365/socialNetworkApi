@@ -17,12 +17,12 @@ const userSchema = new Schema(
       match: [/.+@.+\..+/, "Please enter a valid e-mail address"],
     },
 
-    // thoughts: [
-    //   {
-    //     type: Schema.Types.ObjectId,
-    //     ref: "thought",
-    //   },
-    // ],
+    thoughts: [
+      {
+        type: Schema.Types.ObjectId,
+        ref: "thought",
+      },
+    ],
 
     friends: [
       {
