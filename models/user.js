@@ -1,7 +1,7 @@
 const { Schema, model, SchemaTypeOptions } = require("mongoose");
 
 // a new Schema for the user models in the database //
-userSchema = new Schema(
+const userSchema = new Schema(
   {
     username: {
       type: String,
